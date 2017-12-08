@@ -5,4 +5,7 @@ public void dis()
 {
 	System.out.println("hello");
 }
+	public void emp()
+	{
+	}
 }
