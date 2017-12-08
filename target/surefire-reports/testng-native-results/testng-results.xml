@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="130197" started-at="2017-12-08T07:06:52Z" finished-at="2017-12-08T07:09:02Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="130197" started-at="2017-12-08T07:06:52Z" finished-at="2017-12-08T07:09:02Z">
+      <class name="com.rameshsoft.reports.GmailTest">
+        <test-method status="PASS" signature="initialise()[pri:0, instance:com.rameshsoft.reports.GmailTest@60addb54]" name="initialise" is-config="true" duration-ms="1374" started-at="2017-12-08T12:36:50Z" finished-at="2017-12-08T12:36:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialise -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.rameshsoft.reports.GmailTest@60addb54]" name="beforeMethod" is-config="true" duration-ms="4" started-at="2017-12-08T12:36:52Z" finished-at="2017-12-08T12:36:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.rameshsoft.reports.GmailTest.face()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="face()[pri:0, instance:com.rameshsoft.reports.GmailTest@60addb54]" name="face" duration-ms="89400" started-at="2017-12-08T12:36:52Z" finished-at="2017-12-08T12:38:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- face -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.rameshsoft.reports.GmailTest@60addb54]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2017-12-08T12:38:21Z" finished-at="2017-12-08T12:38:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.rameshsoft.reports.GmailTest.gmailLogin()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="gmailLogin()[pri:0, instance:com.rameshsoft.reports.GmailTest@60addb54]" name="gmailLogin" duration-ms="40634" started-at="2017-12-08T12:38:21Z" finished-at="2017-12-08T12:39:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gmailLogin -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.rameshsoft.reports.GmailTest@60addb54]" name="close" is-config="true" duration-ms="1273" started-at="2017-12-08T12:39:03Z" finished-at="2017-12-08T12:39:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.rameshsoft.reports.GmailTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
